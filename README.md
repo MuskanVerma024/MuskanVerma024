@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Frameworks,backend ,DSA,Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MuskanVerma024/Muskan_Protofolio](https://github.com/MuskanVerma024/Muskan_Protofolio)
-
 - 📫 How to reach me **muskanverma035094@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
