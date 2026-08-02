@@ -1,47 +1,163 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Muskan+Verma;AI+%26+ML+Engineer+%F0%9F%A4%96;Product+Dev+Intern+%40+Comviva;Full-Stack+%26+Linux+Scripting+Dev" alt="Typing Header" />
-</h1>
-
-<p align="center">
-  <b>Product Development Intern @ Comviva (Tech Mahindra) | AI/ML Engineer | B.Tech CSE</b>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=muskanverma024&label=Profile%20Views&color=00d2ff&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=muskanverma024&label=Profile%20Views&color=00d2ff&style=for-the-badge" alt="Profile views" />
-  </a>
-  <a href="https://github.com/MuskanVerma024?tab=followers">
-    <img src="https://img.shields.io/github/followers/MuskanVerma024?label=Followers&logo=github&style=for-the-badge&color=181717" alt="GitHub Followers" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/muskanverma0129" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://kaggle.com/muskan2901" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-  <a href="https://leetcode.com/muskan024" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://www.hackerrank.com/@muskanverma024" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="mailto:muskanverma035094@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
 ---
-
-### 💫 About Me
-
-```yaml
-Muskan_Verma:
-  Current Role: Product Development Intern @ Comviva (Tech Mahindra)
-  Education: B.Tech Computer Science Engineering (PIET)
-  Location: Greater Delhi Area, India
-  Leadership: Former Vice President @ TechniC Club AI&ML (PIET)
-  Communities: GSSoC '25 Tech Contributor | Women Techmakers Active Member
-  Core Interests: AI/ML Engineering, NLP, Java Microservices, Linux Scripting, Test Automation
+### 🚀 Featured Projects
+|
+ Project 
+|
+ Description 
+|
+ Tech Stack 
+|
+ Link 
+|
+|
+:---
+|
+:---
+|
+:---
+|
+:---:
+|
+|
+ 🌾 
+**
+Smart Advisory System (Fasal Sahayak)
+**
+|
+ AI & Data analytics platform giving real-time crop recommendations & advisory for modern farmers. 
+|
+`Python`
+`Pandas`
+`Jupyter`
+`ML`
+|
+[
+Repo
+](
+https://github.com/MuskanVerma024
+)
+|
+|
+ 📰 
+**
+Fake News Detector
+**
+|
+ NLP & Machine Learning system classifying news content authenticity to combat misinformation. 
+|
+`Python`
+`NLP`
+`Scikit-Learn`
+`Pandas`
+|
+[
+Repo
+](
+https://github.com/MuskanVerma024
+)
+|
+|
+ 👗 
+**
+FashionAura
+**
+|
+ AI-powered fashion recommendation web application with sleek interactive front-end. 
+|
+`React.js`
+`JavaScript`
+`CSS3`
+|
+[
+Live
+](
+https://adishri-ab.github.io/FASHION-AURA/
+)
+ \| 
+[
+Repo
+](
+https://github.com/MuskanVerma024/FASHION-AURA
+)
+|
+|
+ 📊 
+**
+Sales Data Analytics Workspace
+**
+|
+ Statistical aggregation & automated visual data insight workspace for sales datasets. 
+|
+`Python`
+`Pandas`
+`Matplotlib`
+|
+[
+Repo
+](
+https://github.com/MuskanVerma024/Data-Analysis-on-CSV-Files
+)
+|
+|
+ 📅 
+**
+Timetable Optimizer
+**
+|
+ Algorithmic scheduler automating conflict-free class timetables for academic institutions. 
+|
+`JavaScript`
+`Algorithms`
+`HTML`
+|
+[
+Repo
+](
+https://github.com/MuskanVerma024/TIMETABLE_OPTIMIZER
+)
+|
+|
+ ⚡ 
+**
+Flask REST API Service
+**
+|
+ RESTful backend web service executing CRUD operations with Postman test suites. 
+|
+`Python`
+`Flask`
+`JSON`
+`Postman`
+|
+[
+Repo
+](
+https://github.com/MuskanVerma024/Build-a-REST-API-with-Flask
+)
+|
+---
+### 📜 Verified Licenses & Certifications
+- 🏛️ **IIT Bombay (SINE / EduPyramids):** Python 3.4.3 (`40662255Y9`) & JavaScript (`4066225HEP`)
+- 🟢 **NVIDIA Deep Learning Institute:** Building LLM Applications
+- 🧪 **TestAutomationU:** Introduction to Pytest (`flb462f4`), Python Programming (`ca193074`), Test Automation Foundations (`00d8c5fe`)
+- 💻 **HP LIFE:** Data Science and Analytics (`c7689452-cd3a-422f-a039-26f3aed92953`)
+- 🌐 **UNICEF + Microsoft:** Digital Productivity with AI
+- 🤖 **GUVI (by HCL):** ChatGPT for Everyone
+- 🏆 **Kaggle:** Certified Python Coder (Pandas & Data Analysis)
+---
+### 📊 GitHub Statistics
+<p align="center">
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=muskanverma024&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="Muskan's GitHub Stats" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs?username=muskanverma024&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muskanverma024&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+---
+<p align="center">
+  <i>"Passionate about leveraging AI and robust software engineering to solve real-world problems."</i><br/>
+  <b>Made with ❤️ by Muskan Verma</b>
+</p>
